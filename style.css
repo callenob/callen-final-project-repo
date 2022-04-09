@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap");
+body {
+  background-image: url("https://s3media.247sports.com/Uploads/Assets/869/448/10448869.png");
+  background-size: 300px;
+}
+  #titlefont {
+    font-size: 32px;
+    font-family: "Akaya Telivigala", cursive;
+    color: brown;
+  }
+  .container {
+    background: aqua;
+    display: flex;
+    width: 230px;
+  }
+  #thisone {
+    background: pink;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 50px;
+  }
+  #thatone {
+    background: rgb(10,255,150);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 50px;
+  }
+
+  .header {
+    background-color: yellow;
+    width: 200px;
+  }
+
+  #mvp {
+    border: 10px solid gold;
+  }
+  #mjack {
+    border: 10px solid gold;
+  }
+
+h1 {
+  color: white;
+  background: orange;
+}
+.cool-list {
+  background: gold;
+  width: 300px
+}
